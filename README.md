@@ -3,6 +3,8 @@
 
 教程主要使用中文编写。
 
+网站 -> [PytorchNoob](https://badai147.github.io/PytorchNoob)
+
 # 目录
 1. Digit Recognizer - 手写数字识别
 2. ...
